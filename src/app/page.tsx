@@ -3,6 +3,7 @@ const CONTRACT = "0xa2dcC92FEb648487EFf083945a17Dc944Eefcd4A";
 
 import { useState } from "react";
 import PageMobile from "@/components/pagemobile"
+import PageTransition from "@/components/PageTransition";
 
 export default function Home() {
 
@@ -34,7 +35,7 @@ export default function Home() {
   };
 
   return (
-    <>
+    <PageTransition>
     <PageMobile />
     <main className="home">
       <section className="hero"> 
@@ -108,6 +109,6 @@ export default function Home() {
       </section>
 
     </main>
-    </>
+    </PageTransition>
   );
 }
