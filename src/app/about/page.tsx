@@ -11,9 +11,9 @@ export default function About () {
       <a
         href="/whitepaper"
         target="_blank">
-        <button className="proof-box">
-        <strong>Read Whitepaper</strong>
-        </button>
+        <h3 className="proof-box">
+        Read Whitepaper
+        </h3>
       </a>
       </section>
       
