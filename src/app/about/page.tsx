@@ -8,7 +8,13 @@ export default function About () {
     <main className="whitepaper">
       <section className="wp-hero">
       <h1>🔎 Let's Get To Know Our Concept</h1>
+      <a
+        href="/whitepaper.pdf"
+        className="proof-box">
+        <strong>Read Whitepaper</strong>
+      </a>
       </section>
+      
       <section className="wp-card center">
       <h2> Introduction</h2>
       <p>

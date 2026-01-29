@@ -55,7 +55,7 @@ export default function Roadmap() {
       <ul>
         <li>Wallet distribution setup</li>
         <li>Liquidity pool initialization</li>
-        <li>Treasury & dev allocation 100% locked</li>
+        <li>Liquidity, treasury & dev allocation 100% locked</li>
         <li>Community announcement</li>
       </ul>
     </div>
@@ -89,6 +89,18 @@ export default function Roadmap() {
         <li>CoinGecko listing</li>
         <li>CoinMarketCap listing</li>
         <li>Additional CEX listing</li>
+      </ul>
+    </div>
+  </div>
+
+  <div className="flow-row right planned">
+    <div className="flow-line" />
+    <div className="flow-card">
+      <span className="phase-tag">Phase 4</span>
+      <span className="status planned">Planned</span>
+      <h3>Ecosystem Scaling</h3>
+      <ul>
+        <li>Coming soon...</li>
       </ul>
     </div>
   </div>

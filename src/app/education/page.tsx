@@ -9,23 +9,20 @@ export default function Education() {
       <section className="wp-hero">
       <h1>🧠 Education</h1>
       <p className="subtitle">
-        Character building for real life & crypto.
+        Character building for real life.
       </p>
       </section>
 
       <section className="education-list">
         <a href="/education/introduction" className="card">
-          <h3>Introduction : </h3>
-          <p>(Description about characters.)</p>
+          <p><strong>Introduction :</strong> (Description about characters.)</p>
         </a>
 
         <a href="/education/..." className="card">
-          <h3>...</h3>
           <p>.....</p>
         </a>
 
         <a href="/education/...." className="card">
-          <h3>...</h3>
           <p>.....</p>
         </a>
       </section>

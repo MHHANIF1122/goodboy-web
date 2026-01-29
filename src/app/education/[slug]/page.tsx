@@ -288,9 +288,9 @@ export default function Introduction() {
       <section className="wp-card">
       <h2>Character Principles :</h2>
       <ul>
-        <li>Morality : Disciplined, caring, and courteous</li>
-        <li>Vision : Grateful, consistent, and committed to visualizing goals</li>
-        <li>Mindset : Thinking positively in all aspects, having strong self-belief, 
+        <li><strong>Morality :</strong>  Disciplined, caring, and courteous</li>
+        <li><strong>Vision :</strong> Grateful, consistent, and committed to visualizing goals</li>
+        <li><strong>Mindset :</strong> Thinking positively in all aspects, having strong self-belief, 
           and maintaining aligned thinking</li>
       </ul>
       </section>

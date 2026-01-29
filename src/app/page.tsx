@@ -56,8 +56,8 @@ export default function Home() {
           </div>
 
           <div className="hero-buttons">
-            <a href="/whitepaper" className="btn primary">
-              Whitepaper</a>
+            <a href="/tokenomics" className="btn primary">
+              Tokenomics</a>
 
             <a href="https://x.com/Hallo_GoodBoy"
                target="_blank"
