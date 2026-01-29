@@ -9,9 +9,11 @@ export default function About () {
       <section className="wp-hero">
       <h1>🔎 Let's Get To Know Our Concept</h1>
       <a
-        href="/whitepaper.pdf"
-        className="proof-box">
+        href="/whitepaper"
+        target="_blank">
+        <button className="proof-box">
         <strong>Read Whitepaper</strong>
+        </button>
       </a>
       </section>
       
