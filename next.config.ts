@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
-        source: "/whitepaper.pdf",
+        source: "/whitepaper-v1.pdf",
         headers: [
           {
             key: "Content-Disposition",

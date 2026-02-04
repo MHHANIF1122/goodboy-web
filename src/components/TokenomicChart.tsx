@@ -11,7 +11,7 @@ import {
 const data = [
   { name: "Liquidity", value: 30 },
   { name: "Treasury", value: 30 },
-  { name: "Private Sale", value: 20 },
+  { name: "Private Sale", value: 25 },
   { name: "Building", value: 5 },
   { name: "Community", value: 5 },
   { name: "Developer", value: 5 },

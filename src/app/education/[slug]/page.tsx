@@ -275,7 +275,9 @@ export default function Introduction() {
       <Breadcrumb />
     <main className="whitepaper">
       <h1>Introduction</h1>
-      <p>
+
+      <section className="wp-card">
+        <p>
         Character is the fundamental foundation of a person’s traits and attitudes, 
         it serves as a guide to determine whether we are moving along the right path, 
         have deviated from it, or have become lost. A life without strong and good character 
@@ -283,11 +285,10 @@ export default function Introduction() {
         To improve our character, we must have clear and well-directed guidance. 
         From there, we are able to evaluate ourselves objectively and 
         identify the specific areas that require improvement.
-      </p>
+        </p>
 
-      <section className="wp-card">
-      <h2>Character Principles :</h2>
       <ul>
+       <h3>Character Principles :</h3>
         <li><strong>Morality :</strong>  Disciplined, caring, and courteous</li>
         <li><strong>Vision :</strong> Grateful, consistent, and committed to visualizing goals</li>
         <li><strong>Mindset :</strong> Thinking positively in all aspects, having strong self-belief, 

@@ -12,7 +12,7 @@ export default function About () {
         href="/whitepaper"
         target="_blank">
         <h3 className="proof-box">
-        Read Whitepaper
+        Full Whitepaper
         </h3>
       </a>
       </section>

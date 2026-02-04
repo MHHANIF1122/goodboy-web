@@ -18,12 +18,12 @@ export default function Education() {
           <p><strong>Introduction :</strong> (Description about characters.)</p>
         </a>
 
-        <a href="/education/..." className="card">
-          <p>.....</p>
+        <a href="/...." className="card">
+          <p><em>Coming Soon...</em></p>
         </a>
 
-        <a href="/education/...." className="card">
-          <p>.....</p>
+        <a href="/...." className="card">
+          <p><em>Coming Soon...</em></p>
         </a>
       </section>
     </main>

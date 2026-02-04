@@ -31,25 +31,20 @@ export default function Tokenomics() {
       <div className="chart-box">
       <TokenomicChart />
       </div>
-      <div className="token-legend">
+      <p className="token-legend">
         <span style={{ color: "#2496c0" }}>
           Liquidity: 30%</span>
         <span style={{ color: "#46798c" }}>
           Treasury: 30%</span>
         <span style={{ color: "#44ef97de" }}>
-          Private Sale: 20%</span>
+          Private Sale: 25%</span>
         <span style={{ color: "#16a34a" }}>
           Building: 5%</span>
         <span style={{ color: "#f59e0b" }}>
           Community: 5%</span>
         <span style={{ color: "#ef4444" }}>
           Developer: 5%</span>
-      </div>
-      <p className="wp-card center">
-          The project allocation chart represents tokens under project planning and control.
-          Tokens not controlled by the team are considered part of the external circulating supply
-          and are not included.
-        </p>
+      </p>
     </details>
 
     <details className="accordion">
@@ -68,7 +63,7 @@ export default function Tokenomics() {
               <em>" View Lock Proof "</em></a></li>
 
            <p>Locked 100% on Pinklock for support long-term sustainability and strategic growth.</p>
-          <li><strong>Private Sale :</strong> 20.000.000</li>
+          <li><strong>Private Sale :</strong> 25.000.000</li>
            <p>For liquidity reinforcement sale, 100% funds will be paired into liquidity.</p>
           <li><strong>Community Allocation:</strong> 5.000.000</li>
            <p>Events, Contests, and Rewards.</p>
@@ -92,7 +87,7 @@ export default function Tokenomics() {
       <summary>Liquidity Roadmap</summary>
       <ul className="accordion-content">
         <p><strong>Phase 1 – Genesis</strong>
-        <li>Liquidity: 25,000,000 GOBO / BNB</li>
+        <li>Liquidity: 30,000,000 GOBO / BNB</li>
         <li>Liquidity is 100% locked</li>
         <li>Buy fee: 1%, Sell fee: 2%</li>
         <li>100% of fees are used for automatic liquidity generation</li>
