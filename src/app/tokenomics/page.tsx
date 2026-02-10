@@ -33,17 +33,21 @@ export default function Tokenomics() {
       </div>
       <p className="token-legend">
         <span style={{ color: "#2496c0" }}>
-          Liquidity: 30%</span>
-        <span style={{ color: "#46798c" }}>
           Treasury: 30%</span>
+        <span style={{ color: "#46798c" }}>
+          Liquidity: 15%</span>
         <span style={{ color: "#44ef97de" }}>
-          Private Sale: 25%</span>
+          Pre-Sale: 15%</span>
         <span style={{ color: "#16a34a" }}>
-          Building: 5%</span>
+          Investor: 15%</span>
+        <span style={{ color: "#c3800c" }}>
+          Team: 10%</span>
         <span style={{ color: "#f59e0b" }}>
           Community: 5%</span>
         <span style={{ color: "#ef4444" }}>
-          Developer: 5%</span>
+          Building: 5%</span>
+        <span style={{ color: "#f07676" }}>
+          Marketing: 5%</span>
       </p>
     </details>
 
@@ -52,10 +56,8 @@ export default function Tokenomics() {
        <ul className="accordion-content">
           <li><strong>Deployer Allocation :</strong> 0</li>
            <p>Used exclusively for contract administration.</p>
-          <li><strong>LP Allocation :</strong> 30.000.000</li>
-           <p>Public market liquidity and will be lock after final pairing.</p>
           <li><strong>Treasury Allocation :</strong> 30.000.000 
-            <a 
+           <a 
               href="https://www.pinksale.finance/pinklock/bsc/record/1444745"
               target="_blank"
               rel="noopener noreferrer"
@@ -63,23 +65,29 @@ export default function Tokenomics() {
               <em>" View Lock Proof "</em></a></li>
 
            <p>Locked 100% on Pinklock for support long-term sustainability and strategic growth.</p>
-          <li><strong>Private Sale :</strong> 25.000.000</li>
+          <li><strong>LP Allocation :</strong> 15.000.000</li>
+           <p>Public market liquidity and will be lock after final pairing.</p>
+          <li><strong>Pre-Sale :</strong> 15.000.000</li>
            <p>For liquidity reinforcement sale, 100% funds will be paired into liquidity.</p>
-          <li><strong>Community Allocation:</strong> 5.000.000</li>
-           <p>Events, Contests, and Rewards.</p>
-          <li><strong>Building Allocation:</strong> 5.000.000</li>
-           <p>Project scaling, operational, partnership, and tooling.</p>
-          <li><strong>Developer Allocation:</strong> 5.000.000 
-          <a 
+          <li><strong>Investor :</strong> 15.000.000</li>
+           <p>Investor and partnership.</p>
+          <li><strong>Developer Team:</strong> 10.000.000 
+           <a 
               href="https://www.pinksale.finance/pinklock/bsc/record/1444764"
               target="_blank"
               rel="noopener noreferrer"
               className= "proof-box">
               <em>" View Lock Proof "</em></a></li>
-           <p>Vested on-chain over 24 months via Pinklock with gradual monthly release.</p>
+           <p>Vested on-chain 50% over 24 months via Pinklock with gradual monthly release.</p>
+          <li><strong>Community Allocation:</strong> 5.000.000</li>
+           <p>Events, Contests, and Rewards.</p>
+          <li><strong>Building Allocation:</strong> 5.000.000</li>
+           <p>Project scaling, operational, and tooling.</p>
+          <li><strong>Marketing :</strong> 5.000.000</li>
+           <p>Marketing and advertising.</p>
           <li><strong>External Supply :</strong></li>
-           <p>A small portion of the total supply is held by external addresses 
-            via private sale for liquidity provider.</p>
+           <p>A portion of the total supply is held by external addresses 
+             for investor & pre-sale.</p>
        </ul>
       </details>
 
@@ -87,22 +95,21 @@ export default function Tokenomics() {
       <summary>Liquidity Roadmap</summary>
       <ul className="accordion-content">
         <p><strong>Phase 1 – Genesis</strong>
-        <li>Liquidity: 30,000,000 GOBO / BNB</li>
-        <li>Liquidity is 100% locked</li>
+        <li>Liquidity: 15,000,000 GOBO / BNB</li>
+        <li>LP is 100% locked</li>
         <li>Buy fee: 1%, Sell fee: 2%</li>
         <li>100% of fees are used for automatic liquidity generation</li>
-        <li>No dev or treasury fee extraction</li>
+        <li>No dev team or treasury fee extraction</li>
         </p>
 
         <p><strong>Phase 2 – Growth</strong>
         <li>Trading volume increases</li>
         <li>Fees continuously add liquidity to the pool</li>
         <li>Liquidity grows organically from market activity</li>
-        <li>Treasury tokens are not sold on the open market</li>
         </p>  
 
         <p><strong>Phase 3 – Maturity</strong>
-        <li>Target liquidity milestone reached = GOBO/1000 BNB</li>
+        <li>Target liquidity milestone reached = GOBO/500 BNB</li>
         <li>Transaction fees finalized at 0%</li>
         <li>Liquidity locked 100%</li>
         <li>Ownership is renounced</li>

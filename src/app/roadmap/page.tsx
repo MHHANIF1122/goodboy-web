@@ -55,7 +55,7 @@ export default function Roadmap() {
       <ul>
         <li>Wallet distribution setup</li>
         <li>Liquidity pool initialization</li>
-        <li>Liquidity, treasury & dev allocation 100% locked</li>
+        <li>Liquidity & treasury 100% locked</li>
         <li>Community announcement</li>
       </ul>
     </div>
@@ -84,7 +84,6 @@ export default function Roadmap() {
       <span className="status planned">Planned</span>
       <h3>Recognition</h3>
       <ul>
-        <li>Smart contract audit</li>
         <li>Project validation</li>
         <li>CoinGecko listing</li>
         <li>CoinMarketCap listing</li>

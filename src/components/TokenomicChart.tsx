@@ -9,21 +9,25 @@ import {
 } from "recharts";
 
 const data = [
-  { name: "Liquidity", value: 30 },
   { name: "Treasury", value: 30 },
-  { name: "Private Sale", value: 25 },
-  { name: "Building", value: 5 },
+  { name: "Liquidity", value: 15 },
+  { name: "Pre-Sale", value: 15 },
+  { name: "Investor", value: 15 },
+  { name: "Team", value: 10 },
   { name: "Community", value: 5 },
-  { name: "Developer", value: 5 },
+  { name: "Building", value: 5 },
+  { name: "Marketing", value: 5 },
 ];
 
 const COLORS = {
-  "Liquidity": "#2496c0",
-  "Treasury": "#46798c",
-  "Private Sale": "#44ef97de",
-  "Building": "#16a34a",        
-  "Community": "#f59e0b",      
-  "Developer": "#ef4444",  
+  "Treasury": "#2496c0",
+  "Liquidity": "#46798c",
+  "Pre-Sale": "#44ef97de",
+  "Investor": "#16a34a",
+  "Team": "#c3800c",
+  "Community": "#f59e0b",
+  "Building": "#ef4444",
+  "Marketing": "#f07676",  
 };
 
 export default function TokenomicChart() {

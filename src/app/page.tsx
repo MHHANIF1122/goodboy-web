@@ -76,7 +76,7 @@ export default function Home() {
             <p><img src="/pancakeswap.svg" className="logo-dex" /></p>
           </a>
 
-          <a href="https://geckoterminal.com/id/bsc/pools/0x8b69823ac74fd2a1492598359279a15a706f0ead"
+          <a href="https://www.geckoterminal.com/bsc/pools/0x8b69823ac74fd2a1492598359279a15a706f0ead?utm_source=embed"
              target="_blank"
              className="action-card market">
             <span className="badge">LIVE</span>
