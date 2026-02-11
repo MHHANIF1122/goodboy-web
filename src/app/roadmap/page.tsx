@@ -99,7 +99,8 @@ export default function Roadmap() {
       <span className="status planned">Planned</span>
       <h3>Ecosystem Scaling</h3>
       <ul>
-        <li>Coming soon...</li>
+        <li>Infrastructure finance token</li>
+        <li>Internal stablecoin rupiah</li>
       </ul>
     </div>
   </div>

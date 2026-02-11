@@ -87,7 +87,7 @@ export default function Home() {
       </section>
 
       <section className="grid">
-        <a href="/about" className="card">
+        <a href="/about-us" className="card">
           <img src="/aboutus.png" className="card-page" />
           <span className="badge">Active</span>
         </a>

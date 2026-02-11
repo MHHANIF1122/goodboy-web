@@ -14,7 +14,7 @@ export default function PageMobile(){
       </a>
       
       <a
-        href="https://geckoterminal.com/id/bsc/pools/0x8b69823ac74fd2a1492598359279a15a706f0ead"
+        href="https://www.geckoterminal.com/bsc/pools/0x8b69823ac74fd2a1492598359279a15a706f0ead?utm_source=embed"
         target="_blank"
         className="mobile-btn market"> 
         <img src="/gecko.svg" className="logo-dexs" />

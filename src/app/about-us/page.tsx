@@ -1,7 +1,7 @@
 import Breadcrumb from "../../components/Breadcrumb";
 import PageTransition from "../../components/PageTransition";
 
-export default function About () {
+export default function AboutUs() {
   return (
     <PageTransition>
     <Breadcrumb />
